@@ -1,0 +1,12 @@
+#微信公众号配置 app_id": ”wx3397718630f43de1“
+Sapp_secret”: "1611b9d8b902bbdd865b6f8523c0e96c"
+template id":"dBfIwhWgmXmkVuaLcooSC-QliKiKQew_Ppt_suVJL-A"
+user”:[“oeH3a6S-ywiVc0cP1T2cnEE4di7o，oeH3a6fWfXR9V1xH63XDmruqxVdw]，#接收消息的微信号，多个微信用英文逗号间隔，
+"weather_key:"888744ac883b478892a0c8430dd9315e"
+"tian_api":"271746ed48666dd7cd40014ae4d0651a"
+"region”:“丽江市，古城区”，#所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"birthday1":{"小媳妇":"开心心""birthday”:"2002-05-27"}#生日1，姓名和生日，生日若为农历在最前面加上r即可
+"love date:"2021-11-16"#在一起的日期，暂不支持农历
+"note ch”:"”，#金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note en": "study hard and make progress everyday!"#金句英文
+}
